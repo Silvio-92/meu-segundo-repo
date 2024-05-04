@@ -1,0 +1,14 @@
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.exe
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.deps.json
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.dll
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\bin\Debug\net7.0\MeuPrimeiroRepo.pdb
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.dll
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\refint\MeuPrimeiroRepo.dll
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.pdb
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\SilvioArquivos\Balta.io\dev\MeuPrimeiroRepo\obj\Debug\net7.0\ref\MeuPrimeiroRepo.dll
